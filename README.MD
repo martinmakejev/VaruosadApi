@@ -1,4 +1,4 @@
-#VaruosadeAPI#
+#VaruosadeAPI
 
 ##Funtksionaalsus:
 ```
