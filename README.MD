@@ -1,6 +1,6 @@
-#VaruosadeAPI
+# VaruosadeAPI
 
-##Funtksionaalsus:
+## Funtksionaalsus:
 ```
 .../parts?page=1 -Näitab 1-30 toodet
 .../parts?page=2 -Näitab 31-60 toodet. Jne...
